@@ -29,6 +29,33 @@ AI:
 Deployment:
 - Docker + AWS Cloud
 
+## Project Roadmap
+
+### Phase 1: Planning & Design
+- Project concept finalization
+- UI/UX design
+- System architecture
+
+### Phase 2: Frontend Development
+- Responsive user interface
+- Resume analyzer page
+- LinkedIn coach page
+- Results dashboard
+
+### Phase 3: Backend & AI Integration
+- FastAPI backend
+- LLM API integration
+- Prompt engineering
+
+### Phase 4: Deployment
+- Docker containerization
+- AWS deployment
+- Live application testing
+
+## Project Status
+
+Currently in Phase 1: Planning & Setup 🚀
+
 ## Status
 🚧 Project under development
 
